@@ -1,5 +1,5 @@
 <p align="center">
-    <i>Assessment - Estruturas de Dados e Algoritmos Avançados</i>
+    <i>Assessment - Programação Distribuída com Redes usando Linux e Python</i>
     <br />
     <br />
     Aluno: <a href="https://www.linkedin.com/in/marcelojael/"><strong>Marcelo Jael</strong></a>
